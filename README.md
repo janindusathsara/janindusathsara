@@ -32,7 +32,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/janindu-sathsara-1111ee" target="_blank">
+  <a href="https://www.linkedin.com/in/janindu-sathsara-1111ee" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          width="40"
