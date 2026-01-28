@@ -32,10 +32,20 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
 <p align="center">
-<a href=""target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janindu Sathsara" height="35" width="60" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Janindu Sathsara" height="35" width="60" /></a>
-</p>
+  <a href="www.linkedin.com/in/janindu-sathsara-1111ee" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="40"
+         height="40" />
+  </a>
 
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         alt="Facebook"
+         width="40"
+         height="40" />
+  </a>
+</p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
