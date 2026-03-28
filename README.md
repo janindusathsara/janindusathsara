@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Janindu Sathsara</h1>
 <h3 align="center">Future Electrical Engineer with a passion for fullstack development</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janindusathsara" alt="janindusathsara" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=janindusathsara" alt="janindusathsara" />
+  </a>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janindusathsara&label=Profile%20views&color=0e75b6&style=flat" alt="janindusathsara" /> </p>
 
@@ -50,20 +55,18 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,matlab" /><br>
-  <img src="https://skillicons.dev/icons?i=react,spring,bootstrap,nodejs,sass,mysql,postman,github,git,vscode" />
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,github,hibernate,idea,mysql,nodejs,npm,postman,react,sass,spring,vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="50" height="50"/>
 </div>
 
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">GitHub stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janindusathsara&layout=compact&hide=php,TSQL&theme=chartreuse-dark">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janindusathsara&layout=compact&hide=php,TSQL&theme=chartreuse-dark">
 </p>
 
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=janindusathsara&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janindusathsara&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=janindusathsara&theme=chartreuse-dark"></p>
 
 
